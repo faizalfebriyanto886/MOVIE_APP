@@ -1,0 +1,1 @@
+String getMoviePlayingNow = "https://api.themoviedb.org/3/movie/now_playing?api_key=fbb9572d11b5458ac98f02b84f2bafc4";
